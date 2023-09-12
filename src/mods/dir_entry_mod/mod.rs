@@ -1,1 +1,1 @@
-pub mod dir_entry_mod;
+pub mod dir_entries;
